@@ -53,18 +53,18 @@ const Contact = () => {
   ];
 
   const socialLinks = [
-    {
-      icon: <Github className="w-6 h-6" />,
-      label: 'GitHub',
-        href: 'https://github.com/vinay-54',
-      color: 'hover:text-gray-900'
-    },
-    {
-      icon: <Linkedin className="w-6 h-6" />,
-      label: 'LinkedIn',
-      href: 'www.linkedin.com/in/vinaykumar54',
-      color: 'hover:text-blue-600'
-    }
+  {
+  icon: <Github className="w-6 h-6" />,
+  label: 'GitHub',
+  href: 'https://github.com/vinay-54',
+  color: 'hover:text-gray-900'
+},
+{
+  icon: <Linkedin className="w-6 h-6" />,
+  label: 'LinkedIn',
+  href: 'https://www.linkedin.com/in/vinaykumar54/',
+  color: 'hover:text-blue-600'
+}
   ];
 
   return (
@@ -198,3 +198,4 @@ const Contact = () => {
 };
 
 export default Contact;
+
