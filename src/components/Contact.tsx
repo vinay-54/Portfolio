@@ -35,8 +35,8 @@ const Contact = () => {
     {
       icon: <Mail className="w-6 h-6" />,
       label: 'Email',
-      value: 'vinaykumar5400@gmail.com',
-      href: 'mailto:vinaykumar5400@gmail.com'
+      value: 'vinaymangali5400@gmail.com',
+      href: 'mailto:vinaymangali5400@gmail.com'
     },
     {
       icon: <Phone className="w-6 h-6" />,
@@ -198,5 +198,6 @@ const Contact = () => {
 };
 
 export default Contact;
+
 
 
