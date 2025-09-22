@@ -30,7 +30,7 @@ const Hero = () => {
               </Button>
               
               <Button variant="outline" size="lg" className="sm:hidden">
-                <a href="https://drive.google.com/file/d/1n0Sc8hGBFGR4ul5QfQ4LLevdfA9hWKqn/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                <a href="https://drive.google.com/file/d/10qtcPktu_88ERFycmLTb5Ojx8lskMzpx/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                   Resume
                 </a>
               </Button>
@@ -79,3 +79,4 @@ const Hero = () => {
 };
 
 export default Hero;
+
