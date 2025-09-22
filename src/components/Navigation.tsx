@@ -38,7 +38,7 @@ const Navigation = () => {
           {/* Resume Button - Desktop */}
           <div className="hidden sm:flex items-center">
             <Button variant="outline" size="sm" asChild>
-              <a href="https://drive.google.com/file/d/1n0Sc8hGBFGR4ul5QfQ4LLevdfA9hWKqn/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+              <a href="https://drive.google.com/file/d/10qtcPktu_88ERFycmLTb5Ojx8lskMzpx/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                 <Download size={16} className="mr-2" />
                 Resume
               </a>
@@ -79,3 +79,4 @@ const Navigation = () => {
 };
 
 export default Navigation;
+
