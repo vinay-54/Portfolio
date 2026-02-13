@@ -6,6 +6,36 @@ import { Button } from '@/components/ui/button';
 const Projects = () => {
   const featuredProjects = [
     {
+  title: 'Bus Pass Management System',
+  category: 'Web Application',
+  description: 'A web-based bus pass management system that allows users to apply for bus passes, manage applications, and streamline the approval process digitally.',
+  tech: ['HTML', 'CSS', 'Bootstrap', 'JavaScript'],
+  features: [
+    'Online bus pass application form',
+    'User-friendly interface for submitting details',
+    'Form validation for accurate data entry',
+    'Responsive design for mobile and desktop',
+    'Organized structure for easy maintenance'
+  ],
+  link: 'https://bus-pass-mocha.vercel.app/'
+},
+    {
+  title: 'Expense Tracker with Charts',
+  category: 'Finance Web App',
+  description: 'A personal finance tracker that allows users to add income and expenses, categorize transactions, and visualize spending patterns using interactive charts.',
+  tech: ['HTML', 'CSS', 'Bootstrap', 'JavaScript', 'Chart.js', 'LocalStorage'],
+  features: [
+    'Add income and expense transactions',
+    'Category-based expense tracking',
+    'Dynamic charts for financial visualization',
+    'Real-time balance calculation',
+    'Data persistence using LocalStorage'
+  ],
+  link: 'https://expense-tracker-neon-zeta-67.vercel.app/'
+},
+
+
+    {
       title: 'Speed Typing Test',
 category: 'Web App',
 description: 'An interactive typing challenge that measures accuracy and speed using random quotes, with real-time feedback and a modern glassmorphism UI.',
@@ -172,3 +202,4 @@ link: 'https://skating-school-one.vercel.app/'
 };
 
 export default Projects;
+
