@@ -18,6 +18,21 @@ achievements: [
 iconImage: 'spytech.png',
 color: 'bg-green-500/10 text-green-600'
     },
+    {
+  title: 'Artificial Intelligence & Data Analytics Intern',
+  company: 'AICTE, Shell India Markets & Edunet Foundation',
+  period: 'Oct 2025 - Nov 2025',
+  description: 'Completed a 4-week virtual internship focused on Artificial Intelligence and Data Analytics under the Green Skills 4Future program.',
+  achievements: [
+    'Worked on AI and data analytics concepts for sustainable development solutions',
+    'Gained hands-on exposure to machine learning fundamentals and data-driven decision making',
+    'Explored real-world applications of AI in environmental and sustainability domains',
+    'Completed guided projects and technical assessments successfully'
+  ],
+  iconImage: 'aicte.png',
+  color: 'bg-blue-500/10 text-blue-600'
+},
+
     
   ];
 
@@ -102,3 +117,4 @@ color: 'bg-green-500/10 text-green-600'
 };
 
 export default Experience;
+
