@@ -6,6 +6,34 @@ import { Button } from '@/components/ui/button';
 const Projects = () => {
   const featuredProjects = [
     {
+  title: 'AI Code Translator',
+  category: 'AI Web Application',
+  description: 'An intelligent web application that converts code from one programming language to another using AI, helping developers quickly understand and rewrite code across multiple languages.',
+  tech: ['React.js', 'Node.js', 'Express.js', 'OpenAI API', 'HTML', 'CSS', 'JavaScript'],
+  features: [
+    'Convert code between multiple programming languages',
+    'AI-powered accurate and fast code translation',
+    'User-friendly interface for input and output display',
+    'Supports popular languages like Python, Java, C++, JavaScript',
+    'Real-time translation results'
+  ],
+  link: 'https://ai-code-translator-ten-wine.vercel.app'
+},
+    {
+  title: 'Multilingual AI-Powered Complaint Portal',
+  category: 'AI + Social Impact Web App',
+  description: 'An AI-driven complaint registration platform that allows users to file complaints in multiple languages with real-time assistance, validation, and intelligent processing for improved accessibility and efficiency.',
+  tech: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'OpenAI API', 'HTML', 'CSS', 'JavaScript'],
+  features: [
+    'File complaints in multiple languages (Telugu, Hindi, English)',
+    'AI-based guidance while submitting complaints',
+    'Real-time validation of complaint details',
+    'Admin dashboard for verification and management',
+    'Secure authentication and data handling'
+  ],
+  link: 'https://multilingual-ai-complaint-portal.vercel.app'
+},
+    {
   title: 'Bus Pass Management System',
   category: 'Web Application',
   description: 'A web-based bus pass management system that allows users to apply for bus passes, manage applications, and streamline the approval process digitally.',
