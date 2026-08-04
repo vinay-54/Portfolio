@@ -30,7 +30,7 @@ const Hero = () => {
               </Button>
               
               <Button variant="outline" size="lg" className="sm:hidden">
-                <a href="https://drive.google.com/file/d/13-W00bxAIhieHcHcPFEHDNUEvzyhelRO/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                <a href="https://drive.google.com/file/d/1mZT_yiUO9U7MmOaPmwqjrTC4tpoApD4J/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                   Resume
                 </a>
               </Button>
